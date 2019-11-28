@@ -1,4 +1,0 @@
-<html>
-<head><title>Vivek is a monster</title></head>
-<body><img src="monster.jpeg"/><h1>What a monster</h1></body>
-</html>
